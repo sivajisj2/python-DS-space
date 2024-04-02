@@ -1,0 +1,7 @@
+ i'm in data.txt
+sivaji
+zabir
+babu
+lucky
+
+
